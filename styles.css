@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.box{
+	margin: 10px;
+	height: 600px;
+	width:400px;
+	padding: 20px;
+	text-align: center;
+	background-color: #f1f1f1;
+	box-shadow: 10px,10px,10px,10px black;
+}
+button{
+	background-color: red;
+	border: none;
+	height: 50px;
+	width: 100px;
+	border-radius: 5px;
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: large;
+
+}
